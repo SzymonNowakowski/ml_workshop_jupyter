@@ -12,4 +12,6 @@ Execute the following lines in a Jupyter terminal or before you launch Jupyter
 
 `pip install torchvision`
 
+# Colab
 
+Alternatively, run the notebooks in Colab with the provided `Open in Colab` badge at the top of each notebook.
