@@ -1,4 +1,4 @@
-# *Introduction to Machine Learning and PyTorch*. 
+# *Introduction to Machine Learning and PyTorch*
 
 Jupyter Notebook dedicated for Machine Learning workshop for Center4ML in University of Warsaw.
 
