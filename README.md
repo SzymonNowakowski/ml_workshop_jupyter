@@ -1,4 +1,4 @@
-# Day 1: ***Introduction to Machine Learning and PyTorch***. 
+# *Introduction to Machine Learning and PyTorch*. 
 
 Jupyter Notebook dedicated for Machine Learning workshop for Center4ML in University of Warsaw.
 
@@ -15,15 +15,15 @@ The workshop notebooks cover the following topics:
 - Regression neural network example
 
 ## Requirements
+
 Execute the following lines in a Jupyter terminal or before you launch Jupyter
 
-`pip install torch`
-
-`pip install numpy`
-
-`pip install matplotlib`
-
-`pip install torchvision`
+```{bash}
+pip install torch
+pip install numpy
+pip install matplotlib
+pip install torchvision
+```
 
 ## Colab
 
